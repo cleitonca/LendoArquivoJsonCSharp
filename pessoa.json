@@ -1,0 +1,30 @@
+﻿[
+  {
+    "Nome": "Kálita Rodrigues",
+    "Idade": 28,
+    "Empresa": "Nutrição Colmeia",
+    "Endereco": [
+      {
+        "Logradouro": "Av. Brasil",
+        "Numero": 123,
+        "Bairro": "Plano Diretor Norte",
+        "Cidade": "Brasilândia",
+        "UF": "SP"
+      }
+    ]
+  },
+  {
+    "Nome": "Cleiton Araújo",
+    "Idade": 31,
+    "Empresa": "e.Mix",
+    "Endereco": [
+      {
+        "Logradouro": "Av. Brasil",
+        "Numero": 123,
+        "Bairro": "Plano Diretor Norte",
+        "Cidade": "Brasilândia",
+        "UF": "SP"
+      }
+    ]
+  }
+]

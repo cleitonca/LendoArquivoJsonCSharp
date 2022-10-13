@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\bin\Debug\net6.0\LendoArquivoJsonCSharp.exe
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\bin\Debug\net6.0\LendoArquivoJsonCSharp.deps.json
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\bin\Debug\net6.0\LendoArquivoJsonCSharp.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\bin\Debug\net6.0\LendoArquivoJsonCSharp.dll
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\bin\Debug\net6.0\LendoArquivoJsonCSharp.pdb
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.dll
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\refint\LendoArquivoJsonCSharp.dll
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.pdb
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\LendoArquivoJsonCSharp.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\TrabalhandoComArquivos\LendoArquivoJsonCSharp\obj\Debug\net6.0\ref\LendoArquivoJsonCSharp.dll
